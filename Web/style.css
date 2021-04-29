@@ -86,6 +86,7 @@ blockquote::after {
 .queue a :hover{
     display: none;
     text-decoration: none;
+    color: #000;
 }
 .queue h1{
     text-align: center;
